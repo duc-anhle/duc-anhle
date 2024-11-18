@@ -11,7 +11,7 @@
 
 ### ⚙️ Tech Stack
 
-![Bootstrap](https://img.shields.io/badge/-R-05122A?style=plastic&logo=R&color=8c3939) ![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=plastic&logo=Python&color=8c3939) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=plastic&logo=MySQL&color=8c3939) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=plastic&logo=Visual-Studio-Code&color=8c3939) ![Bootstrap](https://img.shields.io/badge/-HTML5-05122A?style=plastic&logo=HTML5&color=8c3939)
+![Bootstrap](https://img.shields.io/badge/-R-05122A?style=plastic&logo=R&color=8c3939) ![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=plastic&logo=Python&color=8c3939) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=plastic&logo=MySQL&color=8c3939) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=plastic&logo=Visual-Studio-Code&color=8c3939) ![Bootstrap](https://img.shields.io/badge/-HTML5-05122A?style=plastic&logo=HTML5&color=8c3939) ![Bootstrap](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=CSS&color=8c3939)
 
 <p align="center">
   <i>Let's connect and chat!</i>
