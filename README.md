@@ -2,12 +2,16 @@
 
 ### 👋 Hi, I'm Anh!
 
-- 👩🏻‍💻 Data analyst and Ecologist interested in all things Data science and Nature<br/>
-- 👩🏻‍🎓 Studied Master in [Tropical and International Forestry](https://www.uni-goettingen.de/en/616875.html) at University of Göttingen, Germany<br/>
-- 💭 I'm currently doing my PhD at [Biodiversity, Macroecology and Biogeography](https://www.uni-goettingen.de/en/128741.html) and learning about data analytics and dataviz!<br/>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhejazizo%2Fhejazizo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com) 
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:duc-anh.le@forst.uni-goettingen.de)
 
-# 💻 Tech Stack:
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+- 👩🏻‍💻 Data analyst and Ecologist interested in all things Data science and Nature.
+- 👩🏻‍🎓 Studied Master in [Tropical and International Forestry](https://www.uni-goettingen.de/en/616875.html) at University of Göttingen, Germany.
+- 💭 I'm currently doing my PhD at [Biodiversity, Macroecology and Biogeography](https://www.uni-goettingen.de/en/128741.html) and learning about data analytics and dataviz!
+
+### ⚙️ Tech Stack
+
+![Bootstrap](https://img.shields.io/badge/-R-05122A?style=plastic&logo=R&color=8c3939) ![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=plastic&logo=Python&color=8c3939) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=plastic&logo=MySQL&color=8c3939) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=plastic&logo=Visual-Studio-Code&color=8c3939) ![Bootstrap](https://img.shields.io/badge/-HTML5-05122A?style=plastic&logo=HTML5&color=8c3939)
 
 <p align="center">
   <i>Let's connect and chat!</i>
