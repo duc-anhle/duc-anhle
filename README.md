@@ -1,8 +1,8 @@
-<div align = "center">
+<div align="center">
   <!-- dynamic typing effect -->
   <div>
    <a href="https://git.io/typing-svg">
-     <img src="https://readme-typing-svg.demolab.com?font=Humanist&pause=1000&color=F7411F&width=435&lines=Hi+folks%2C+I'm+Anh!" alt="Typing SVG" />
+     <img src="https://readme-typing-svg.demolab.com?font=Humanist&pause=1000&color=F7411F&center=true&width=435&lines=Hi+folks%2C+I'm+Anh!" alt="Typing SVG" />
    </a>
     <div>&nbsp;</div>
   </div>
